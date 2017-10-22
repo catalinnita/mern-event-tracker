@@ -1,0 +1,16 @@
+.login-box, .register-box {
+	max-width: 500px;
+	margin: 100px auto 0;
+}
+
+.reports {
+	margin-top: 40px;
+}
+
+.align-right {
+	float: right;
+}
+
+.main {
+	margin-top: 30px;
+}

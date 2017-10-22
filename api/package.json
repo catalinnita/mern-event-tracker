@@ -1,0 +1,20 @@
+{
+  "name": "SDATA",
+  "version": "0.0.1",
+  "description": "ScambledData App",
+  "homepage": "http://scrambled-data.com",
+  "author": "Catalin Nita",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wpfw/repository.git"
+  },
+  "dependencies": {
+    "express" : "^4.14.0",
+    "body-parser" : "^1.15.2",
+    "mongoose" : "^4.7.0",
+    "jsonwebtoken" : "^7.1.9",
+    "ua-parser-js" : "^0.6.0"
+  },
+  "readme" : "it's fun",
+  "license": "MIT"
+}
